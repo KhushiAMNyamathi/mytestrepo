@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+.topnav {
+  background-color:#0a0b36;
+  overflow: hidden;
+  font-family: 'Poppins';
+  font-size: 22px;
+  color:azure;
+}
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
